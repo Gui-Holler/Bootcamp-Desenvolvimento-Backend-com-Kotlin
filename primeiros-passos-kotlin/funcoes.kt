@@ -1,3 +1,5 @@
+import kotlin.enums.EnumEntries
+
 fun imprimirMensagem(message: String) {
     println(message)
 }
