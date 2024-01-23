@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6bee747-a0d7-4c63-ad1c-2c6e12b247fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../orientacao-objetos-kotlin/orientacao-objetos-kotlin/heranca-simples.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orientacao-objetos-kotlin/orientacao-objetos-kotlin/orientacao-objetos-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/introdução-linguagem-programacao-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes-genericas.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conjuntos-set.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/estrutura-when.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expressao-condicional-simples.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expressao-when.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes-genericas.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes-parametro-varargs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listas.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-for.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-iterator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop-while-dowhile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/null-safety.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/introdução-linguagem-programacao-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello_worldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/META-INF/introdução-linguagem-programacao-kotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/introdução-linguagem-programacao-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/ClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Classes_genericasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Conjuntos_setKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Estrutura_whenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Expressao_condicional_simplesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Expressao_whenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/FuncoesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Funcoes_genericasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Funcoes_parametro_varargsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Hello_worldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/ListasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Loop_forKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Loop_iteratorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Loop_while_dowhileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/META-INF/introdução-linguagem-programacao-kotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/MapKt$accountsReport$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/MapKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/MinhaClasse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/MutableStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Null_safetyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/PilhaMutavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Ranges_if_loop_com_charKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Ranges_loop_com_intKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Variaveis_var_valKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Verificacoes_de_igualdadeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/introdução-linguagem-programacao-kotlin/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranges-if-loop-com-char.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranges-loop-com-int.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis-var-val.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificacoes-de-igualdade.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../orientacao-objetos-kotlin/orientacao-objetos-kotlin/heranca-simples.kt" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZT8FhpyXpJ7izWia4DHn3sjdDx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Kotlin.ClassesKt.executor": "Run",
+    "Kotlin.Classes_genericasKt.executor": "Run",
+    "Kotlin.Conjuntos_setKt.executor": "Debug",
+    "Kotlin.Estrutura_whenKt.executor": "Run",
+    "Kotlin.Expressao_condicional_simplesKt.executor": "Run",
+    "Kotlin.Expressao_whenKt.executor": "Run",
+    "Kotlin.FuncoesKt.executor": "Run",
+    "Kotlin.Funcoes_genericasKt.executor": "Run",
+    "Kotlin.Funcoes_parametro_varargsKt.executor": "Run",
+    "Kotlin.Hello_worldKt.executor": "Run",
+    "Kotlin.ListasKt.executor": "Run",
+    "Kotlin.Loop_forKt.executor": "Run",
+    "Kotlin.Loop_iteratorKt.executor": "Run",
+    "Kotlin.Loop_while_dowhileKt.executor": "Run",
+    "Kotlin.MapKt.executor": "Run",
+    "Kotlin.Null_safetyKt.executor": "Coverage",
+    "Kotlin.Ranges_if_loop_com_charKt.executor": "Run",
+    "Kotlin.Ranges_loop_com_intKt.executor": "Run",
+    "Kotlin.Variaveis_var_valKt.executor": "Run",
+    "Kotlin.Verificacoes_de_igualdadeKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/OneDrive/Documentos/Exercícios/DIO/Bootcamp-Desenvolvimento-Backend-com-Kotlin/sintaxe-basica",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guilh\OneDrive\Documentos\Exercícios\DIO\Bootcamp-Desenvolvimento-Backend-com-Kotlin\primeiros-passos-kotlin\introdução-linguagem-programacao-kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Conjuntos_setKt">
+    <configuration name="Conjuntos_setKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conjuntos_setKt" />
+      <module name="introdução-linguagem-programacao-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListasKt" />
+      <module name="introdução-linguagem-programacao-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
+      <module name="introdução-linguagem-programacao-kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MapKt" />
+        <item itemvalue="Kotlin.Conjuntos_setKt" />
+        <item itemvalue="Kotlin.ListasKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-8336523bb0d9-ce1e98ff" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6bee747-a0d7-4c63-ad1c-2c6e12b247fd" name="Changes" comment="" />
+      <created>1702434607834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702434607834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/null-safety.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hello_world_kt$Null_safetyKt.ic" NAME="Null_safetyKt Coverage Results" MODIFIED="1702553419787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
