@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/introdução-linguagem-programacao-kotlin.iml" filepath="$PROJECT_DIR$/.idea/introdução-linguagem-programacao-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../orientacao-objetos-kotlin/orientacao-objetos-kotlin/orientacao-objetos-kotlin.iml" filepath="$PROJECT_DIR$/../orientacao-objetos-kotlin/orientacao-objetos-kotlin/orientacao-objetos-kotlin.iml" />
     </modules>
   </component>
 </project>
